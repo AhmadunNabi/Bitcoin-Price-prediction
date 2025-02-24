@@ -1,4 +1,4 @@
-# Bitcoin-Price-prediction
+# Bitcoin-Price-prediction - For Advanced AI course
 In this repository I have implemented Bitcoin Price Prediction using ARIMA, SARIMA, LSTM.
 
 The code includes
