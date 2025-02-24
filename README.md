@@ -1,5 +1,6 @@
 # Bitcoin-Price-prediction
-In this repository I have implemented Bitcoin Price Prediction using ARIMA, SARIMA, LSTM
+In this repository I have implemented Bitcoin Price Prediction using ARIMA, SARIMA, LSTM.
+
 The code includes
   1. Data Preparation
   2. Exploratory Data Analysis (EDA)
