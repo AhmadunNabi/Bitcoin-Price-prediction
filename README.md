@@ -7,3 +7,5 @@ The code includes
   3. Feature Engineering
   4. Model Training and Evaluation
   5. Conclusion and Future Work
+Download dataset from: https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
+Change the dataset file name according to the code and keep the dataset on the same directory
